@@ -5,3 +5,10 @@
 
 build/
 dist/
+
+# Test outputs
+test.ll
+output.ll
+func.ll
+*.ll
+a.out
